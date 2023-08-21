@@ -1,0 +1,2 @@
+# jenkins-ex
+example plugin
